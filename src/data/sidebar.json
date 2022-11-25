@@ -1,0 +1,95 @@
+[{
+        "title": "Home",
+        "icon": "bi-house-fill",
+        "path": "/numerProject/"
+    },
+    {
+        "title": "Root of Equation",
+        "icon": "bi-1-circle",
+        "childrens": [{
+                "title": "Bisection",
+                "path": "/numerProject/Bisection"
+            },
+            {
+                "title": "False Position",
+                "path": "/numerProject/Falseposition"
+            },
+            {
+                "title": "One Point Iteration",
+                "path": "/numerProject/OnePointiteration"
+            },
+            {
+                "title": "Newton Raphson",
+                "path": "/numerProject/NewtonRaphson"
+            },
+            {
+                "title": "Secant",
+                "path": "/numerProject/Secant"
+            }
+        ]
+    },
+    {
+        "title": "Linear Algebra",
+        "icon": "bi-2-circle",
+        "childrens": [{
+                "title": "Cramer's Rule",
+                "path": "/numerProject/cramerrule"
+            },
+            {
+                "title": "Gauss Elimination",
+                "path": "/numerProject/gausselimination"
+            },
+            {
+                "title": "Gauss Jordan",
+                "path": "/numerProject/gaussjordan"
+            },
+            {
+                "title": "Jacobi Iteration",
+                "path": "/numerProject/jacobi"
+            },
+            {
+                "title": "Gauss Seidel",
+                "path": "/numerProject/gaussseidel"
+            },
+            {
+                "title": "Conjugate Gradient",
+                "path": "/numerProject/conjugategradient"
+            }
+        ]
+    },
+    {
+        "title": "Interporation",
+        "icon": "bi-3-circle",
+        "childrens": [{
+                "title": "Newton Diveded Difference",
+                "path": "/numerProject/NewtonDivided"
+            },
+            {
+                "title": "Largrange",
+                "path": "/numerProject/largrange"
+            }
+        ]
+    },
+    {
+        "title": "Extrapolation",
+        "icon": "bi-4-circle",
+        "childrens": [{
+                "title": "Linear Regression",
+                "path": "/numerProject/linearregression"
+            },
+            {
+                "title": "Polynomial Regression",
+                "path": "/numerProject/polynomial"
+            },
+            {
+                "title": "Multiple Linear Regression",
+                "path": "/numerProject/MultipleLinear"
+            }
+        ]
+    },
+    {
+        "title": "Q&A",
+        "icon": "bi-question-circle",
+        "path": "/numerProject/q&a"
+    }
+]
